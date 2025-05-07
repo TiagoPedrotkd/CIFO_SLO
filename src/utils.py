@@ -17,19 +17,26 @@ def create_valid_team(players, used_ids):
     except:
         return None
 
-def create_valid_individual(players):
-    all_ids = set()
-    teams = []
-    for _ in range(5):
-        team = None
-        tries = 0
-        while not team and tries < 10:
-            team = create_valid_team([p for p in players if p.id not in all_ids])
-            tries += 1
-        if team:
-            teams.append(team)
-            all_ids.update(p.id for p in team.players)
-    return Individual(teams) if len(teams) == 5 else None
+def create_valid_individual(players, max_attempts=10):
+    for attempt in range(max_attempts):
+        all_ids = set()
+        teams = []
+
+        for _ in range(5):
+            team = None
+            tries = 0
+            while not team and tries < 10:
+                team = create_valid_team(players, all_ids)
+                tries += 1
+            if team:
+                teams.append(team)
+                all_ids.update(p.id for p in team.players)
+
+        if len(teams) == 5:
+            return Individual(teams)
+
+    print("[INFO] Não foi possível gerar um indivíduo válido após várias tentativas.")
+    return None
 
 def generate_initial_population(n, players):
     population = []

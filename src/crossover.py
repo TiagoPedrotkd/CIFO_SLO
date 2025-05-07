@@ -1,5 +1,7 @@
 import random
 from copy import deepcopy
+from models import Individual, Team
+
 
 def team_swap_crossover(parent1, parent2):
     child1 = deepcopy(parent1)
@@ -54,7 +56,6 @@ def position_based_crossover(parent1, parent2):
     return child
 
 def gene_level_crossover(parent1, parent2):
-    from models import Individual, Team
     all_players = [p for team in parent1.teams for p in team.players] + \
                   [p for team in parent2.teams for p in team.players]
     random.shuffle(all_players)

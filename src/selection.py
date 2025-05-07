@@ -50,7 +50,7 @@ def elitism(population, fitnesses, num_elites=1):
     sorted_pairs = sorted(zip(population, fitnesses), key=lambda x: x[1], reverse=True)
     return [ind for ind, _ in sorted_pairs[:num_elites]]
 
-def select_parents(population, fitnesses, method="tournament"):
+def select_parents(population, fitnesses, method="tournament", num_elites = 10):
     if method == "tournament":
         return tournament_selection(population, fitnesses), tournament_selection(population, fitnesses)
     elif method == "roulette":
@@ -61,5 +61,7 @@ def select_parents(population, fitnesses, method="tournament"):
         return rank_selection(population, fitnesses), rank_selection(population, fitnesses)
     elif method == "sus":
         return stochastic_universal_sampling(population, fitnesses), stochastic_universal_sampling(population, fitnesses)
+    elif method == "elitism":
+        return elitism(population, fitnesses, num_elites = num_elites), elitism(population, fitnesses, num_elites = num_elites)
     else:
         raise ValueError("Método de seleção inválido.")
