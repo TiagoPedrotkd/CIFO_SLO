@@ -1,4 +1,5 @@
 import random
+import os
 from utils import generate_initial_population
 from fitness import evaluate_fitness
 from selection import select_parents, elitism
@@ -7,7 +8,7 @@ from mutation import random_player_mutation
 
 def main(players, pop_size=10, generations=20, elite_count=2,
          selection_method="tournament", crossover_op=None, mutation_op=None,
-         verbose=True, crossover_rate=1.0, mutation_rate=1.0):
+         verbose=True, crossover_rate=1.0, mutation_rate=1.0,):
 
     if crossover_op is None:
         crossover_op = team_swap_crossover
@@ -48,12 +49,22 @@ def main(players, pop_size=10, generations=20, elite_count=2,
     final_fitnesses = [evaluate_fitness(ind) for ind in population]
     best_individual = population[final_fitnesses.index(max(final_fitnesses))]
 
-    if verbose:
-        print("\nMelhor indivíduo final:")
-        print("Fitness:", evaluate_fitness(best_individual))
+    output_path = "../results/logs"
+    os.makedirs(output_path, exist_ok=True)
+
+    with open(os.path.join(output_path, "melhor_individuo.txt"), "w", encoding="utf-8") as f:
+        f.write("Modelo Utilizados:\n")
+        f.write(f"Crossover: {crossover_op.__name__}   Mutação: {mutation_op.__name__}   Selection: {selection_method}\n")
+        f.write("Parâmetros Utilizados:\n")
+        f.write(f"Crossover Rate: {crossover_rate}   Mutação Rate: {mutation_rate}\n")
+        f.write("Melhor indivíduo final:\n")
+        f.write(f"Fitness: {evaluate_fitness(best_individual):.2f}\n")
+        
         for i, team in enumerate(best_individual.teams):
-            print(f"\nEquipa {i+1} - Média: {team.average_skill():.2f} | Custo total: €{team.total_cost():.2f}")
+            f.write(f"\nEquipa {i+1} - Média: {team.average_skill():.2f} | Custo total: €{team.total_cost():.2f}\n")
             for p in team.players:
-                print(f"{p.name} ({p.position}) - Skill: {p.skill}, Custo: {p.cost}")
+                f.write(f"{p.name} ({p.position}) - Skill: {p.skill}, Custo: {p.cost}\n")
+
+    print("✅ Resultado final escrito em 'results/logs/melhor_individuo.txt'")
 
     return best_individual, best_fitness_over_time
