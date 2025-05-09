@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: sus, Crossover: team_swap_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 50%, Mutation rate: 40%
+
+Equipa 1 - Média: 85.43 | Custo total: €660.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+
+Equipa 2 - Média: 85.43 | Custo total: €675.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Sebastian Perry (FWD) - Skill: 95, Custo: 150
+
+Equipa 3 - Média: 85.43 | Custo total: €660.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 4 - Média: 85.43 | Custo total: €660.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 5 - Média: 85.43 | Custo total: €660.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+

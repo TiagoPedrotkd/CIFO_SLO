@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: truncation, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 60%, Mutation rate: 60%
+
+Equipa 1 - Média: 86.71 | Custo total: €720.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Austin Torres (MID) - Skill: 82, Custo: 80
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 2 - Média: 86.71 | Custo total: €720.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Austin Torres (MID) - Skill: 82, Custo: 80
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 3 - Média: 86.71 | Custo total: €720.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Austin Torres (MID) - Skill: 82, Custo: 80
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 4 - Média: 86.71 | Custo total: €720.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Austin Torres (MID) - Skill: 82, Custo: 80
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 5 - Média: 86.71 | Custo total: €720.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Austin Torres (MID) - Skill: 82, Custo: 80
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+

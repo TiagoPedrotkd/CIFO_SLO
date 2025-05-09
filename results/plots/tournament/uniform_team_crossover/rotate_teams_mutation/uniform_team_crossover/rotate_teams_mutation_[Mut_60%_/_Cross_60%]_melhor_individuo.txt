@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: tournament, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 60%, Mutation rate: 60%
+
+Equipa 1 - Média: 86.43 | Custo total: €680.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Logan Brooks (DEF) - Skill: 86, Custo: 95
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 2 - Média: 86.43 | Custo total: €685.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 3 - Média: 86.43 | Custo total: €685.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 4 - Média: 86.43 | Custo total: €685.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 5 - Média: 86.43 | Custo total: €685.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+

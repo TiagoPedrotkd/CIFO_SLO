@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: sus, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 90%, Mutation rate: 100%
+
+Equipa 1 - Média: 86.57 | Custo total: €680.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Landon Powell (FWD) - Skill: 89, Custo: 110
+
+Equipa 2 - Média: 86.57 | Custo total: €710.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Colton Gray (FWD) - Skill: 91, Custo: 125
+Julian Scott (FWD) - Skill: 92, Custo: 130
+
+Equipa 3 - Média: 86.57 | Custo total: €710.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Colton Gray (FWD) - Skill: 91, Custo: 125
+Julian Scott (FWD) - Skill: 92, Custo: 130
+
+Equipa 4 - Média: 86.57 | Custo total: €680.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Landon Powell (FWD) - Skill: 89, Custo: 110
+
+Equipa 5 - Média: 86.57 | Custo total: €680.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Landon Powell (FWD) - Skill: 89, Custo: 110
+

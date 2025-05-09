@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.06
+Selection: elitism, Crossover: player_swap_crossover, Mutation: swap_players_between_teams
+Crossover rate: 80%, Mutation rate: 80%
+
+Equipa 1 - Média: 86.43 | Custo total: €677.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Maxwell Flores (DEF) - Skill: 81, Custo: 72
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Landon Powell (FWD) - Skill: 89, Custo: 110
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+
+Equipa 2 - Média: 86.43 | Custo total: €695.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Austin Torres (MID) - Skill: 82, Custo: 80
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Colton Gray (FWD) - Skill: 91, Custo: 125
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 3 - Média: 86.43 | Custo total: €667.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Logan Brooks (DEF) - Skill: 86, Custo: 95
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+
+Equipa 4 - Média: 86.57 | Custo total: €690.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Sebastian Perry (FWD) - Skill: 95, Custo: 150
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+
+Equipa 5 - Média: 86.43 | Custo total: €700.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+

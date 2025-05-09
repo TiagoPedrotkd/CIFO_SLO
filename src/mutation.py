@@ -3,7 +3,7 @@ from copy import deepcopy
 from utils import create_valid_team
 
 
-def random_player_mutation(individual, player_pool):
+def random_player_mutation(individual, player_pool=None):
     child = deepcopy(individual)
     team_idx = random.randint(0, len(child.teams) - 1)
     team = child.teams[team_idx]
@@ -23,7 +23,7 @@ def random_player_mutation(individual, player_pool):
 
     return child
 
-def swap_players_between_teams(individual):
+def swap_players_between_teams(individual, player_pool=None):
     child = deepcopy(individual)
     t1, t2 = random.sample(range(len(child.teams)), 2)
     team1, team2 = child.teams[t1], child.teams[t2]
@@ -36,7 +36,7 @@ def swap_players_between_teams(individual):
         team1.players[p1], team2.players[p2] = team2.players[p2], team1.players[p1]
     return child
 
-def replace_team_mutation(individual, player_pool, max_attempts=10):
+def replace_team_mutation(individual, player_pool=None, max_attempts=10):
     original_fitness = individual.fitness()
     child = deepcopy(individual)
     idx = random.randint(0, len(child.teams) - 1)
@@ -63,7 +63,7 @@ def replace_team_mutation(individual, player_pool, max_attempts=10):
 
     return child
 
-def expensive_player_mutation(individual, player_pool):
+def expensive_player_mutation(individual, player_pool=None):
     child = deepcopy(individual)
     all_players = [(ti, pi, p) for ti, team in enumerate(child.teams) for pi, p in enumerate(team.players)]
     most_expensive = max(all_players, key=lambda x: x[2].cost)
@@ -76,7 +76,7 @@ def expensive_player_mutation(individual, player_pool):
         child.teams[ti].players[pi] = random.choice(candidates)
     return child
 
-def cross_position_mutation(individual):
+def cross_position_mutation(individual, player_pool=None):
     child = deepcopy(individual)
     t1, t2 = random.sample(range(len(child.teams)), 2)
     team1, team2 = child.teams[t1], child.teams[t2]
@@ -89,7 +89,7 @@ def cross_position_mutation(individual):
         team1.players[p1], team2.players[p2] = team2.players[p2], team1.players[p1]
     return child
 
-def forward_reset_mutation(individual, player_pool):
+def forward_reset_mutation(individual, player_pool=None):
     child = deepcopy(individual)
     team_idx = random.randint(0, len(child.teams) - 1)
     team = child.teams[team_idx]
@@ -103,7 +103,7 @@ def forward_reset_mutation(individual, player_pool):
             team.players[i] = new_p
     return child
 
-def rotate_teams_mutation(individual):
+def rotate_teams_mutation(individual, player_pool=None):
     child = deepcopy(individual)
     child.teams = child.teams[-1:] + child.teams[:-1]
     return child

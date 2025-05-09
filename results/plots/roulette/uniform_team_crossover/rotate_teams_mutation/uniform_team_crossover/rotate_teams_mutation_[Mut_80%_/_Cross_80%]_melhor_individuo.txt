@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: roulette, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 80%, Mutation rate: 80%
+
+Equipa 1 - Média: 87.29 | Custo total: €720.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 2 - Média: 87.29 | Custo total: €717.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Maxwell Flores (DEF) - Skill: 81, Custo: 72
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 3 - Média: 87.29 | Custo total: €720.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 4 - Média: 87.29 | Custo total: €717.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Maxwell Flores (DEF) - Skill: 81, Custo: 72
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 5 - Média: 87.29 | Custo total: €720.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+

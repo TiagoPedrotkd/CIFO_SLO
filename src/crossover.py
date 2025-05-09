@@ -34,32 +34,36 @@ def player_swap_crossover(parent1, parent2):
 
 
 def uniform_team_crossover(parent1, parent2):
-    child = deepcopy(parent1)
+    child1 = deepcopy(parent1)
+    child2 = deepcopy(parent2)
     for i in range(len(parent1.teams)):
         if random.random() < 0.5:
-            child.teams[i] = deepcopy(parent2.teams[i])
-    return child
+            child1.teams[i], child2.teams[i] = deepcopy(parent2.teams[i]), deepcopy(parent1.teams[i])
+    return child1, child2
+
 
 
 def position_based_crossover(parent1, parent2):
-    child = deepcopy(parent1)
+    child1 = deepcopy(parent1)
+    child2 = deepcopy(parent2)
     pos = random.choice(['GK', 'DEF', 'MID', 'FWD'])
     for i in range(len(parent1.teams)):
-        team1 = child.teams[i]
-        team2 = parent2.teams[i]
+        team1 = child1.teams[i]
+        team2 = child2.teams[i]
         for j, p1 in enumerate(team1.players):
             if p1.position == pos:
                 for k, p2 in enumerate(team2.players):
                     if p2.position == pos:
-                        team1.players[j] = deepcopy(p2)
+                        team1.players[j], team2.players[k] = deepcopy(p2), deepcopy(p1)
                         break
-    return child
+    return child1, child2
+
 
 def gene_level_crossover(parent1, parent2):
     all_players = [p for team in parent1.teams for p in team.players] + \
                   [p for team in parent2.teams for p in team.players]
     random.shuffle(all_players)
-    
+
     used_ids = set()
     teams = []
     for _ in range(5):
@@ -74,9 +78,10 @@ def gene_level_crossover(parent1, parent2):
             if sum(pos_requirements.values()) == 0:
                 break
         if len(team) == 7:
-            from models import Team
             teams.append(Team(team))
+
     if len(teams) == 5:
-        return Individual(teams)
+        child = Individual(teams)
+        return child, deepcopy(child)
     else:
-        return deepcopy(parent1)
+        return deepcopy(parent1), deepcopy(parent2)

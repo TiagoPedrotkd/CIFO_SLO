@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: rank, Crossover: team_swap_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 80%, Mutation rate: 80%
+
+Equipa 1 - Média: 86.29 | Custo total: €675.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Julian Scott (FWD) - Skill: 92, Custo: 130
+
+Equipa 2 - Média: 86.29 | Custo total: €690.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Logan Brooks (DEF) - Skill: 86, Custo: 95
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 3 - Média: 86.29 | Custo total: €690.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Logan Brooks (DEF) - Skill: 86, Custo: 95
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 4 - Média: 86.29 | Custo total: €667.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 5 - Média: 86.29 | Custo total: €667.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Colton Gray (FWD) - Skill: 91, Custo: 125
+

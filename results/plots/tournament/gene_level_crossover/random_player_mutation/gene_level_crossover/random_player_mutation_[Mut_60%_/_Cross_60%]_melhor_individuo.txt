@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.43
+Selection: tournament, Crossover: gene_level_crossover, Mutation: random_player_mutation
+Crossover rate: 60%, Mutation rate: 60%
+
+Equipa 1 - Média: 86.29 | Custo total: €670.00
+Bentley Rivera (MID) - Skill: 88, Custo: 100
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+Xavier Bryant (FWD) - Skill: 90, Custo: 120
+Alex Carter (GK) - Skill: 85, Custo: 90
+
+Equipa 2 - Média: 86.57 | Custo total: €705.00
+Jaxon Griffin (DEF) - Skill: 79, Custo: 65
+Austin Torres (MID) - Skill: 82, Custo: 80
+Logan Brooks (DEF) - Skill: 86, Custo: 95
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Sebastian Perry (FWD) - Skill: 95, Custo: 150
+Julian Scott (FWD) - Skill: 92, Custo: 130
+Jordan Smith (GK) - Skill: 88, Custo: 100
+
+Equipa 3 - Média: 86.00 | Custo total: €675.00
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Colton Gray (FWD) - Skill: 91, Custo: 125
+
+Equipa 4 - Média: 86.00 | Custo total: €687.00
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Maxwell Flores (DEF) - Skill: 81, Custo: 72
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 5 - Média: 87.14 | Custo total: €687.00
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Landon Powell (FWD) - Skill: 89, Custo: 110
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+

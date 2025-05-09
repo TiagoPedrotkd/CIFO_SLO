@@ -8,7 +8,7 @@ from mutation import random_player_mutation
 
 def main(players, pop_size=10, generations=20, elite_count=2,
          selection_method="tournament", crossover_op=None, mutation_op=None,
-         verbose=True, crossover_rate=1.0, mutation_rate=1.0,):
+         verbose=True, crossover_rate=1.0, mutation_rate=1.0, file_name ="melhor_individuo"):
 
     if crossover_op is None:
         crossover_op = team_swap_crossover
@@ -52,7 +52,7 @@ def main(players, pop_size=10, generations=20, elite_count=2,
     output_path = "../results/logs"
     os.makedirs(output_path, exist_ok=True)
 
-    with open(os.path.join(output_path, "melhor_individuo.txt"), "w", encoding="utf-8") as f:
+    with open(os.path.join(output_path, f'{file_name}.txt'), "w", encoding="utf-8") as f:
         f.write("Modelo Utilizados:\n")
         f.write(f"Crossover: {crossover_op.__name__}   Mutação: {mutation_op.__name__}   Selection: {selection_method}\n")
         f.write("Parâmetros Utilizados:\n")

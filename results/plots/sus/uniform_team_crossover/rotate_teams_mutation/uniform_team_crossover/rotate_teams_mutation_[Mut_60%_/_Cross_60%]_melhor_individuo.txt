@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: sus, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 60%, Mutation rate: 60%
+
+Equipa 1 - Média: 86.71 | Custo total: €690.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Austin Torres (MID) - Skill: 82, Custo: 80
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+
+Equipa 2 - Média: 86.71 | Custo total: €690.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Austin Torres (MID) - Skill: 82, Custo: 80
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+
+Equipa 3 - Média: 86.71 | Custo total: €690.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Austin Torres (MID) - Skill: 82, Custo: 80
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+
+Equipa 4 - Média: 86.71 | Custo total: €690.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Austin Torres (MID) - Skill: 82, Custo: 80
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+
+Equipa 5 - Média: 86.71 | Custo total: €690.00
+Blake Henderson (GK) - Skill: 87, Custo: 95
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Austin Torres (MID) - Skill: 82, Custo: 80
+Connor Hayes (MID) - Skill: 89, Custo: 105
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+

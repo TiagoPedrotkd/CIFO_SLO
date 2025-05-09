@@ -1,0 +1,50 @@
+Melhor indivíduo final
+Fitness: -0.00
+Selection: rank, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
+Crossover rate: 80%, Mutation rate: 80%
+
+Equipa 1 - Média: 86.00 | Custo total: €685.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Julian Scott (FWD) - Skill: 92, Custo: 130
+
+Equipa 2 - Média: 86.00 | Custo total: €660.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+
+Equipa 3 - Média: 86.00 | Custo total: €660.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+
+Equipa 4 - Média: 86.00 | Custo total: €660.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Caleb Fisher (DEF) - Skill: 84, Custo: 85
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+
+Equipa 5 - Média: 86.00 | Custo total: €685.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Mason Reed (DEF) - Skill: 82, Custo: 75
+Spencer Ward (MID) - Skill: 84, Custo: 85
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+Julian Scott (FWD) - Skill: 92, Custo: 130
+
