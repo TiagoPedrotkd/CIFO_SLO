@@ -1,50 +1,50 @@
 Melhor indivíduo final
-Fitness: -0.00
+Fitness: 1000.00
 Selection: truncation, Crossover: uniform_team_crossover, Mutation: rotate_teams_mutation
 Crossover rate: 50%, Mutation rate: 40%
 
-Equipa 1 - Média: 86.29 | Custo total: €682.00
-Ryan Mitchell (GK) - Skill: 83, Custo: 85
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Maxwell Flores (DEF) - Skill: 81, Custo: 72
-Dylan Morgan (MID) - Skill: 91, Custo: 115
-Hunter Cooper (MID) - Skill: 83, Custo: 85
-Chase Murphy (FWD) - Skill: 86, Custo: 95
-Julian Scott (FWD) - Skill: 92, Custo: 130
-
-Equipa 2 - Média: 86.29 | Custo total: €682.00
-Ryan Mitchell (GK) - Skill: 83, Custo: 85
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Maxwell Flores (DEF) - Skill: 81, Custo: 72
-Dylan Morgan (MID) - Skill: 91, Custo: 115
-Hunter Cooper (MID) - Skill: 83, Custo: 85
-Chase Murphy (FWD) - Skill: 86, Custo: 95
-Julian Scott (FWD) - Skill: 92, Custo: 130
-
-Equipa 3 - Média: 86.29 | Custo total: €690.00
-Ryan Mitchell (GK) - Skill: 83, Custo: 85
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Brayden Hughes (DEF) - Skill: 87, Custo: 100
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Austin Torres (MID) - Skill: 82, Custo: 80
-Adrian Collins (FWD) - Skill: 85, Custo: 90
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
-
-Equipa 4 - Média: 86.29 | Custo total: €662.00
+Equipa 1 - Média: 86.71 | Custo total: €680.00
 Alex Carter (GK) - Skill: 85, Custo: 90
-Jaxon Griffin (DEF) - Skill: 79, Custo: 65
 Owen Parker (DEF) - Skill: 88, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Nathan Wright (MID) - Skill: 92, Custo: 120
 Dylan Morgan (MID) - Skill: 91, Custo: 115
-Ashton Phillips (MID) - Skill: 90, Custo: 110
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Chase Murphy (FWD) - Skill: 86, Custo: 95
 Adrian Collins (FWD) - Skill: 85, Custo: 90
 
-Equipa 5 - Média: 86.29 | Custo total: €662.00
+Equipa 2 - Média: 86.71 | Custo total: €680.00
 Alex Carter (GK) - Skill: 85, Custo: 90
-Jaxon Griffin (DEF) - Skill: 79, Custo: 65
 Owen Parker (DEF) - Skill: 88, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Nathan Wright (MID) - Skill: 92, Custo: 120
 Dylan Morgan (MID) - Skill: 91, Custo: 115
-Ashton Phillips (MID) - Skill: 90, Custo: 110
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 3 - Média: 86.71 | Custo total: €680.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 4 - Média: 86.71 | Custo total: €680.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Chase Murphy (FWD) - Skill: 86, Custo: 95
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 5 - Média: 86.71 | Custo total: €680.00
+Alex Carter (GK) - Skill: 85, Custo: 90
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Dylan Morgan (MID) - Skill: 91, Custo: 115
+Chase Murphy (FWD) - Skill: 86, Custo: 95
 Adrian Collins (FWD) - Skill: 85, Custo: 90
 

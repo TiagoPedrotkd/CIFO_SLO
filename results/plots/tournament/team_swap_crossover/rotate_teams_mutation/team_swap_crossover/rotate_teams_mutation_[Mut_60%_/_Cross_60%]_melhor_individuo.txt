@@ -1,50 +1,50 @@
 Melhor indivíduo final
-Fitness: -0.00
+Fitness: 1000.00
 Selection: tournament, Crossover: team_swap_crossover, Mutation: rotate_teams_mutation
 Crossover rate: 60%, Mutation rate: 60%
 
-Equipa 1 - Média: 86.43 | Custo total: €700.00
-Chris Thompson (GK) - Skill: 80, Custo: 80
-Ethan Howard (DEF) - Skill: 80, Custo: 70
+Equipa 1 - Média: 86.29 | Custo total: €667.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
 Brayden Hughes (DEF) - Skill: 87, Custo: 100
-Connor Hayes (MID) - Skill: 89, Custo: 105
-Dylan Morgan (MID) - Skill: 91, Custo: 115
-Adrian Collins (FWD) - Skill: 85, Custo: 90
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
-
-Equipa 2 - Média: 86.43 | Custo total: €667.00
-Jordan Smith (GK) - Skill: 88, Custo: 100
-Logan Brooks (DEF) - Skill: 86, Custo: 95
-Daniel Foster (DEF) - Skill: 90, Custo: 110
-Connor Hayes (MID) - Skill: 89, Custo: 105
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
-Tyler Jenkins (FWD) - Skill: 80, Custo: 70
-
-Equipa 3 - Média: 86.43 | Custo total: €667.00
-Jordan Smith (GK) - Skill: 88, Custo: 100
-Logan Brooks (DEF) - Skill: 86, Custo: 95
-Daniel Foster (DEF) - Skill: 90, Custo: 110
-Connor Hayes (MID) - Skill: 89, Custo: 105
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
-Tyler Jenkins (FWD) - Skill: 80, Custo: 70
-
-Equipa 4 - Média: 86.43 | Custo total: €680.00
-Blake Henderson (GK) - Skill: 87, Custo: 95
-Logan Brooks (DEF) - Skill: 86, Custo: 95
 Lucas Bennett (DEF) - Skill: 85, Custo: 90
-Dylan Morgan (MID) - Skill: 91, Custo: 115
-Spencer Ward (MID) - Skill: 84, Custo: 85
-Julian Scott (FWD) - Skill: 92, Custo: 130
-Tyler Jenkins (FWD) - Skill: 80, Custo: 70
-
-Equipa 5 - Média: 86.43 | Custo total: €700.00
-Chris Thompson (GK) - Skill: 80, Custo: 80
-Ethan Howard (DEF) - Skill: 80, Custo: 70
-Brayden Hughes (DEF) - Skill: 87, Custo: 100
-Connor Hayes (MID) - Skill: 89, Custo: 105
-Dylan Morgan (MID) - Skill: 91, Custo: 115
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
 Adrian Collins (FWD) - Skill: 85, Custo: 90
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 2 - Média: 86.29 | Custo total: €667.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 3 - Média: 86.29 | Custo total: €667.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 4 - Média: 86.29 | Custo total: €667.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Adrian Collins (FWD) - Skill: 85, Custo: 90
+
+Equipa 5 - Média: 86.29 | Custo total: €667.00
+Jordan Smith (GK) - Skill: 88, Custo: 100
+Brayden Hughes (DEF) - Skill: 87, Custo: 100
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Ashton Phillips (MID) - Skill: 90, Custo: 110
+Zachary Nelson (FWD) - Skill: 86, Custo: 92
+Adrian Collins (FWD) - Skill: 85, Custo: 90
 

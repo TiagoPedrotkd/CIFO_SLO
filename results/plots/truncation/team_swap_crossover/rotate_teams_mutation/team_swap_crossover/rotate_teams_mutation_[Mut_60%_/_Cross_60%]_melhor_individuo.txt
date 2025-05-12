@@ -1,50 +1,50 @@
 Melhor indivíduo final
-Fitness: -0.00
+Fitness: 1000.00
 Selection: truncation, Crossover: team_swap_crossover, Mutation: rotate_teams_mutation
 Crossover rate: 60%, Mutation rate: 60%
 
-Equipa 1 - Média: 86.57 | Custo total: €702.00
-Chris Thompson (GK) - Skill: 80, Custo: 80
-Daniel Foster (DEF) - Skill: 90, Custo: 110
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Hunter Cooper (MID) - Skill: 83, Custo: 85
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
-
-Equipa 2 - Média: 86.57 | Custo total: €702.00
+Equipa 1 - Média: 86.29 | Custo total: €685.00
 Ryan Mitchell (GK) - Skill: 83, Custo: 85
-Maxwell Flores (DEF) - Skill: 81, Custo: 72
-Caleb Fisher (DEF) - Skill: 84, Custo: 85
-Spencer Ward (MID) - Skill: 84, Custo: 85
-Bentley Rivera (MID) - Skill: 88, Custo: 100
-Colton Gray (FWD) - Skill: 91, Custo: 125
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 2 - Média: 86.29 | Custo total: €685.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 3 - Média: 86.29 | Custo total: €685.00
+Ryan Mitchell (GK) - Skill: 83, Custo: 85
+Lucas Bennett (DEF) - Skill: 85, Custo: 90
+Daniel Foster (DEF) - Skill: 90, Custo: 110
+Dominic Bell (MID) - Skill: 86, Custo: 95
+Gavin Richardson (MID) - Skill: 87, Custo: 95
+Tyler Jenkins (FWD) - Skill: 80, Custo: 70
+Elijah Sanders (FWD) - Skill: 93, Custo: 140
+
+Equipa 4 - Média: 86.29 | Custo total: €700.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Chase Murphy (FWD) - Skill: 86, Custo: 95
 Sebastian Perry (FWD) - Skill: 95, Custo: 150
 
-Equipa 3 - Média: 86.57 | Custo total: €702.00
-Ryan Mitchell (GK) - Skill: 83, Custo: 85
-Maxwell Flores (DEF) - Skill: 81, Custo: 72
-Caleb Fisher (DEF) - Skill: 84, Custo: 85
-Spencer Ward (MID) - Skill: 84, Custo: 85
-Bentley Rivera (MID) - Skill: 88, Custo: 100
-Colton Gray (FWD) - Skill: 91, Custo: 125
+Equipa 5 - Média: 86.29 | Custo total: €700.00
+Chris Thompson (GK) - Skill: 80, Custo: 80
+Ethan Howard (DEF) - Skill: 80, Custo: 70
+Owen Parker (DEF) - Skill: 88, Custo: 100
+Nathan Wright (MID) - Skill: 92, Custo: 120
+Hunter Cooper (MID) - Skill: 83, Custo: 85
+Chase Murphy (FWD) - Skill: 86, Custo: 95
 Sebastian Perry (FWD) - Skill: 95, Custo: 150
-
-Equipa 4 - Média: 86.57 | Custo total: €702.00
-Chris Thompson (GK) - Skill: 80, Custo: 80
-Daniel Foster (DEF) - Skill: 90, Custo: 110
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Hunter Cooper (MID) - Skill: 83, Custo: 85
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
-
-Equipa 5 - Média: 86.57 | Custo total: €702.00
-Chris Thompson (GK) - Skill: 80, Custo: 80
-Daniel Foster (DEF) - Skill: 90, Custo: 110
-Owen Parker (DEF) - Skill: 88, Custo: 100
-Dominic Bell (MID) - Skill: 86, Custo: 95
-Hunter Cooper (MID) - Skill: 83, Custo: 85
-Elijah Sanders (FWD) - Skill: 93, Custo: 140
-Zachary Nelson (FWD) - Skill: 86, Custo: 92
 
