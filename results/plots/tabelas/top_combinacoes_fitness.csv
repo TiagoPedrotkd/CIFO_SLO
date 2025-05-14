@@ -1,0 +1,6 @@
+Selecao,Crossover,Mutacao,Fitness Aproximado
+truncation,uniform_team_crossover,rotate_teams_mutation,1000.0
+rank,uniform_team_crossover,rotate_teams_mutation,999.5
+tournament,team_swap_crossover,rotate_teams_mutation,999.0
+elitism,team_swap_crossover,replace_team_mutation,999.05
+roulette,player_swap_crossover,replace_team_mutation,998.9
